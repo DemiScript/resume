@@ -1,2 +1,2 @@
-# [Click me!](https://demiscript.github.io/DM-Resume.pdf/)
+# [Click me!](https://demiscript.github.io/resume/)
 My latest resume
